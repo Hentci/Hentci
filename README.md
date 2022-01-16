@@ -12,8 +12,9 @@
 
 ## RECORD
 
-![HENTCI's github status](https://github-readme-stats.vercel.app/api?-username=Hentci&theme=vue-dark)
+
+![Hentci's github status](https://github-readme-stats.vercel.app/api?username=Hentci&theme=vue-dark)
 
 ## LANGUAGE
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?-username=Hentci&langs_count=6&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hentci&langs_count=6&theme=vue-dark)
