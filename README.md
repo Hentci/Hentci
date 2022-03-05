@@ -1,8 +1,8 @@
-<!-- # HENTCI
+# HENTCI
 
-<img src = "https://avatars.githubusercontent.com/u/72024391?s=400&u=a423ba52f35a5c1ec4bcb9b84ece41819252b201&v=4">
+<img src = "https://i.imgur.com/tVaeOwe.png">
 
-## INTRODUCTION
+<!-- ## INTRODUCTION
 
 <br>
 
@@ -19,7 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hentci&langs_count=6&theme=vue-dark) -->
 
-<h1 align="center">I'm a fan of Golden Ship</h1>
+<!-- <h1 align="center">I'm a fan of Golden Ship</h1>
 <h3 align="center">a student from CCU</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hentci&show_icons=true&locale=en&layout=compact" alt="hentci" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hentci&show_icons=true&locale=en" alt="hentci" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hentci&show_icons=true&locale=en" alt="hentci" /></p> -->
