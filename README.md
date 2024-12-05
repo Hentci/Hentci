@@ -1,6 +1,6 @@
 <!-- # HENTCI -->
 
-<img src = "https://i.imgur.com/tVaeOwe.png">
+## <img src = "https://i.imgur.com/tVaeOwe.png">
 
 <!-- ## INTRODUCTION
 
